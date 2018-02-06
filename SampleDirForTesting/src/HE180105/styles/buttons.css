@@ -1,0 +1,31 @@
+#button {
+	border-top: 1px solid #ffeecc;
+	background: #e66509;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f7bea1), to(#e66509));
+	background: -webkit-linear-gradient(top, #f7bea1, #e66509);
+	background: -moz-linear-gradient(top, #f7bea1, #e66509);
+	background: -ms-linear-gradient(top, #f7bea1, #e66509);
+	background: -o-linear-gradient(top, #f7bea1, #e66509);
+	padding: 9.5px 19px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	box-shadow: rgba(0,0,0,1) 0 1px 0;
+	text-shadow: rgba(0,0,0,.4) 0 1px 0;
+	color: #ffffff;
+	font-size: 20px;
+	font-family: Georgia, Serif;
+	text-decoration: none;
+	vertical-align: middle;
+   }
+#button:hover {
+   border-top-color: #f7943e;
+   background: #f7943e;
+   color: #d9d9d9;
+   }
+#button:active {
+   border-top-color: #a3a3a3;
+   background: #a3a3a3;
+   }

@@ -1,0 +1,221 @@
+﻿/*
+Template Name: School Education
+File: Navigation CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+#header #topnav{
+	display:block;
+	float:right;
+	width:450px;
+	padding:0;
+	font-size:13px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-align:right;
+	margin-top: 30px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	}
+	
+#header ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+#header li{
+	display:inline;
+	margin-right:35px;
+	}
+
+#header li a:link, #header li a:visited, #header li a:hover{
+	margin:0;
+	padding:0 3px 10px 3px;
+	/*color:#FFFFFF;*/
+    color:#000000;
+	font-weight:bold;
+	/*background-color:#2D3134;*/
+    background-color:#ffffff;
+	border-bottom:2px solid #2D3134;
+	}
+
+#header li a:hover, #header li.active a{
+	color:#02ACEE;
+	/*background-color:#2D3134;*/
+    background-color:#ffffff;
+	border-bottom-color:#02ACEE;
+	}
+
+#header #topnav li.last{
+	margin-right:0;
+	}
+
+#header #topnav ul ul {
+	display: none;
+}
+
+#header #topnav ul li:hover > ul {
+		display: block;		
+}
+
+#header #topnav ul {	 
+	padding: 0 5px; 
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+#header #topnav ul:after {
+		content: ""; clear: both; display: block;
+	}
+	#header #topnav ul li {
+	float: left;
+	
+	
+}
+	#header #topnav ul li:hover {
+		background: #FF7500;
+	}
+		#header #topnav ul li:hover a {
+			
+		}
+	
+	#header #topnav ul li a {
+		display: block; 
+		text-decoration: none;
+		zoom: 1;
+	}
+	
+#header #topnav ul ul {
+	background: #ffffff;
+	padding: 0;
+	position: absolute; 
+	top: 100%;	
+	box-shadow: 0px 3px 9px rgba(0,0,0,0.15);
+	text-align:left;
+    z-index:100;
+}
+	#header #topnav ul ul li {
+		float: none; 		
+		position: relative;
+		border-bottom:none;
+		
+	}
+		#header #topnav ul ul li a {
+			padding: 5px 15px;
+			color: #000000;
+			border-bottom: 1px solid #DADADA;
+			line-height:1.7em;
+		}	
+			#header #topnav ul ul li a:hover {
+				background: #FF7500;
+				color: #FFFFFF;
+				border-bottom: 1px solid #FF7500;
+			}
+
+#header #topnav ul ul ul {
+	background: #ffffff;
+	padding: 0;
+	position: absolute; 
+	right: 100%;
+	top: -125%;	
+	box-shadow: 0px 3px 9px rgba(0,0,0,0.15);
+	text-align:left;
+    z-index:100;
+}
+	#header #topnav ul ul ul li {
+		float: none; 		
+		position: relative;
+		border-bottom:none;
+		
+	}
+		#header #topnav ul ul ul li a {
+			padding: 5px 15px;
+			color: #000000;
+			border-bottom: 1px solid #DADADA;
+			line-height:1.7em;
+		}	
+			#header #topnav ul ul ul li a:hover {
+				background: #FF7500;
+				color: #FFFFFF;
+				border-bottom: 1px solid #FF7500;
+			}
+
+
+#goTop {
+	background-color: transparent;
+	background-repeat: no-repeat;
+    padding:0px;
+    position:fixed;
+    bottom: 35px;
+    right:15px;
+	z-index:100;
+	zoom: 1;
+	filter: alpha(opacity=70);
+	opacity: 0.7;
+}
+#goTop:hover {
+/*	background-color: #FF7500;
+	background-position: center;
+	background-color-size:  15px;*/	
+	zoom: 1;
+	filter: alpha(opacity=100);
+	opacity: 1;
+}
+.jumpTop{
+	
+	}
+/* ----------------------------------------------Column Navigation-------------------------------------*/
+
+#column .subnav{
+	display:block;
+	width:100%;
+	padding:none;
+	margin-bottom:30px;
+}
+
+#column .subnav h2{
+	margin:0 0 20px 0;
+	padding:0 0 14px 0;
+	font-size:20px;
+	font-weight:normal;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#666666;
+	line-height:normal;
+	border-bottom:1px dotted #666666;
+	}
+
+#column .subnav ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+
+#column .subnav li{
+	margin:0 0 3px 0;
+	padding:0;
+	}
+
+#column .subnav ul ul, #column .subnav ul ul ul, #column .subnav ul ul ul ul, #column .subnav ul ul ul ul ul{border-top:none; padding-top:0;}
+
+#column .subnav a{
+	display:block;
+	margin:0;
+	padding:5px 10px 5px 20px;
+	color:#777777;
+	text-decoration:none;
+	border-bottom:1px dotted #666666;
+	background-image: url(../img/blue_file.gif);
+	background-repeat: no-repeat;
+	background-position: 10px center;
+	}
+
+#column .subnav a:hover{color:#02ACEE; background-color:#F9F9F9;}
+
+#column .subnav ul ul a, #column .subnav ul ul ul a, #column .subnav ul ul ul ul a, #column .subnav ul ul ul ul ul a{background:url("../img/black_file.gif") no-repeat #F9F9F9;}
+#column .subnav ul ul a{padding-left:40px; background-position:30px center;}
+#column .subnav ul ul ul a{padding-left:50px; background-position:40px center;}
+#column .subnav ul ul ul ul a{padding-left:60px; background-position:50px center;}
+#column .subnav ul ul ul ul ul a{padding-left:70px; background-position:60px center;}

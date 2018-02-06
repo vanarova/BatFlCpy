@@ -1,0 +1,38 @@
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+div.calendar{
+	display:block;
+	float:right;
+	width:60px;
+	background-image:url("../img/trans.png");
+	color:#FFFFFF;
+	text-align:center;
+/*	font-weight:bold;*/
+	font-size:18px;
+	padding-top:4px;
+	padding-bottom:4px;
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+#homecontent .fl_right .imgc{
+    margin: 10px 75px 10px 75px;
+	padding:0;
+	outline:none;
+	list-style:none;
+	text-decoration:none;
+	width:100px;
+	height:100px;
+	border:none;	
+	
+}
+#homecontent .fl_right #column .subnav{
+	/*max-width:285px;*/
+	}
+#homecontent .fl_right #column .subnav li{
+	border:none;
+	padding-bottom:none;	
+	margin-bottom:none;
+	/*max-width:270px;*/
+	}
