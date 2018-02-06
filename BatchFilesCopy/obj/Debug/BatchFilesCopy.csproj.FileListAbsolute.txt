@@ -48,3 +48,26 @@ C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\ob
 C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\NLog.dll
 C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\NLog.xml
 C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\NLog.config
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\bin\Debug\NLog.config
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\bin\Debug\BatchFilesCopy.exe.config
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\bin\Debug\BatchFilesCopy.exe
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\bin\Debug\BatchFilesCopy.pdb
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\bin\Debug\BatchCopyCore.dll
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\bin\Debug\NLog.dll
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\bin\Debug\BatchCopyCore.pdb
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\bin\Debug\NLog.xml
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.csprojResolveAssemblyReference.cache
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchCopyCore.UI.Controls.CopyByCodeSource.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchCopyCore.UI.Controls.CopyByWinCommand.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.Controls.RunProgress.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.Extensions.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.OneTextBoxInput.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.Properties.Resources.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.BatchCopyFiles.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.RunDetails.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchCopyCore.TestCopyFiles.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.TestForm.resources
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.csproj.GenerateResource.Cache
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.exe
+C:\Users\varun\source\repos\BatFlCpy\BatchFilesCopy\obj\Debug\BatchFilesCopy.pdb

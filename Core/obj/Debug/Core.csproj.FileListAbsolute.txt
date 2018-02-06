@@ -11,3 +11,12 @@ C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\obj\Debug\Co
 C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\bin\Debug\NLog.dll
 C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\bin\Debug\NLog.xml
 C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\bin\Debug\NLog.config
+C:\Users\varun\source\repos\BatFlCpy\Core\bin\Debug\NLog.config
+C:\Users\varun\source\repos\BatFlCpy\Core\bin\Debug\BatchCopyCore.dll
+C:\Users\varun\source\repos\BatFlCpy\Core\bin\Debug\BatchCopyCore.pdb
+C:\Users\varun\source\repos\BatFlCpy\Core\bin\Debug\NLog.dll
+C:\Users\varun\source\repos\BatFlCpy\Core\bin\Debug\NLog.xml
+C:\Users\varun\source\repos\BatFlCpy\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\varun\source\repos\BatFlCpy\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\BatFlCpy\Core\obj\Debug\BatchCopyCore.dll
+C:\Users\varun\source\repos\BatFlCpy\Core\obj\Debug\BatchCopyCore.pdb
