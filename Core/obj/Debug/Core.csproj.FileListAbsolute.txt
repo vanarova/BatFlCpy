@@ -1,0 +1,13 @@
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\Core\bin\Debug\BatchCopyCore.dll
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\Core\bin\Debug\BatchCopyCore.pdb
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\Core\obj\Debug\BatchCopyCore.dll
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\Core\obj\Debug\BatchCopyCore.pdb
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\bin\Debug\BatchCopyCore.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\bin\Debug\BatchCopyCore.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\obj\Debug\BatchCopyCore.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\obj\Debug\BatchCopyCore.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\bin\Debug\NLog.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\bin\Debug\NLog.xml
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\Core\bin\Debug\NLog.config

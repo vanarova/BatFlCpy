@@ -1,0 +1,99 @@
+﻿
+TODO - 
+- Exemption csv file list should be removed, its not useful
+
+
+
+
+High level S/W learnings -
+- Design UI first to get all the working validations & requirements captured.
+- Design Interface class between UI and core logic.
+- Now forgot UI, design core logic and write unit tests using interface class. 
+- Capture all combinations through interface class.
+
+
+Arhietect Flow -
+-Coreconnector is a class that exposes interfaces to access core functionality.
+-It also expose a execute method to interact with core to perform various actions.
+-Execute method require arguments as Interface type which coreconnector exposes.
+-So dev user needs to implement exposed interfaces from core connector and create class objects.
+-Dev user will send these class objects as arguments when he will call coreconnector execute method.
+-This is how interface contracts work.
+- Execute method output changes objects in coreconnector class, these objects are used in UI, A event based mechanism will be implmented to 
+notify UI about changes in coreconnector objects.
+
+
+
+Log -
+8/6 - wrote method to implement previewlist() to use testconnector and call to core logic classes - batchmanager, codecopy.
+11/6 - writing method to implement a full list for preview files, this list will be used for copy, this list will not be shown to UI, It is decided that
+		the list shown to UI will be only level by level, it will expand for each say - 2-3 levels, It will load the nodes when user will expand it.
+		However we will match the working list and UI list by validation method. Right now implementing working list from testcodecopy method.
+11/6 - Implemented asysnc/await, now I have to implement progress handling while async operation.
+16/6 - Implementing async result result on UI, binding it to status label on form. It is difficult due to addditional user control we have. Have to write
+		event to get status back to form level.
+17/6 - Implemented cancellation mechanism in async await using cancellation token, it looks like the mwthod for introducing new functions in core and connecting them
+		to UI is very long and needs to be shortened.
+18/6 - Found a way to create a tree view for files, using native winform controls, Now working to populate files and folders in it, first level filder and files will be
+		added to a separate list and returned to UI. When user clicks on folder, it will expand again taking care of ISettings for file searching.
+		- Fix calls, too many reduntant, remove them by providing handles of inner class to upper classes.
+19/6 - working on how to create a queue of tasks, this is required due to above requirement of creating 2 tasks, 1 for generating top level files and folders
+		,another for generating a list all files. So we need two tasks queued, we should be able to cancel anytime, any rerun while task execution should not start
+		another task etc.
+		- Also pending is to implement naming convention.
+25/7 - corrected namespaces, cleaned them.
+5/2/2017 - The CodeCopy layer needs redesigning, not easy to test at all, used Moq framework to test the layer, but not working well.As return
+		types are having delegate function calls (report progress). So need to redesign this layer.
+
+
+
+
+Needed - consolidate, progress arguments, move completed, cancelled actions inside progressReport class and call from there, to reduce arguments.
+		- change the events from user control to base form, to just properties, they are sufficient.
+		- documenation is required on high priority.
+
+Flow - 
+
+- Select csv file containing file paths
+- loads a list of files paths
+- prefix adjusts every file path to create it absolute
+- Select destination folder path
+- listbox is just to display, it appends original csv file paths to destination file paths
+- destination file path and original csv file list concats (as shown in above list) are actually used as destination
+
+
+components -
+
+UI	- Bind both lists to scroll together with bind on/off button. BindListboxesUI()
+	- Run async all copy operations.
+
+
+Code copy - 
+	- List management - Lists will display. wil be editable binded to internal list. 
+		CreateListFromFolderSelection(bool LookInSubDirs), AppendList(prefix), RemoveAll(), ImportListfromCSV(), TrimSpaces(), ValidateListPaths(), 
+		BgHighlightFilesFromSameDirectory(), RemoveFileFromList(RemoveFilePattern(*.m)), RemoveDirFromList(DirectoryName)
+	- Error management checkbox, ContinueOnError(True) will continue copy files if case of error with any error operation.
+	- Log management, LogCopyOperation() will log all copy of files in a text file. And Checkbox DisplayLogAfterComplete(True) will display text file in a window.
+	
+
+Command copy -
+	- add switch with text AddCommandSwtich(switch, text), SelectedCommand(commandName) create a command object
+
+
+
+Batch Management -
+	- AddBatch(Name), DeleteBatch(Name), EditSequence() will open a sequnce window.
+
+
+- list creator, will create a list of csv for files to copy.
+- implement async await with progress
+- multiple src and destination possibility using xml configurations.
+- folder to folder copy with options like xcopy, robocopy already have. May just run robocopy and xcopy using UI.
+- bind both list boxes scrolling together.
+
+
+
+
+Current working item - 
+
+- Open and read csv file on batchcopyfile Form.

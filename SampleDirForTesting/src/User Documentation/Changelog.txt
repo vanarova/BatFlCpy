@@ -1,0 +1,131 @@
+OnRAMP Design Suite 
+Release R111 
+Changelog
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+C1B6 Build
+January 18, 2013
+
+ID	Description
+28358	Transient simulation errors.
+27974	User can proceed with drive cycle definition without selecting a scheduled variable. 
+26993	User-defined units should not accept a zero gain. 
+27931	User shoudl not be able to specify a user-defined options file but not select the assocaited file (Preferences dialog). 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+C1B5 Build
+January 10, 2013
+
+ID	Description
+23818	Operating point selector had an unexpected behaviour when three variables were configured and axis were changed.
+26527	Improve MATLAB status tooltip. 
+27690	Improve copy paste behaviour on Range Check display.
+28041	Add support for loading of project file via drag-and-drop operation on application.
+28105	Misleading tooltip for the prediction horizon on the advanced tuning page.
+28217	Data sets with duplicate names could produce unhandled exceptions on the Signal Assignment page.
+28255	Changing operating point selection on the Transient Simulation page could impact graph fill property.
+28259	Warnings were observed when the model was built for dSpace hardware.
+28263	Compensator can't be set for more than 7 CVs on the advanced tuning page.
+28272	An exception could be produced on the Controller Confiuration page under certain conditions.
+28277	Copy pasting coordinates for an exogenous variable could produce an exception.
+28322	Project could not be saved after performing feedfroward control with a very large number of operating points.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+C1B4 Build
+December 13, 2012
+
+ID	Description
+27604	License requests should not be sent in the case where an invalid email address is provided.
+27674	The setpoint plot is blank if only a single setpoint value is configured.
+27977	Tooltips are not shown for an undocked window when focus is lost.
+28135	Refresh issues could be seen in the feedforward coordinates table.
+28138	When an operating point is deleted on the Transient Step task (DOE), the last operating point becomes hidden.
+28148	The x-axis header on the Controller Configuration page does not update properly when a new user-defined variable is selected.
+28150	When all data is deleted from a table on the Controller Configuration page, an exception could be produced.
+28155	When creating an MV LUT for the first time, an error message could be seen under certain conditions.
+28179	A row was missing for fuel/speed sweeps in exported CAMEO files.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+C1B3 Build
+November 29, 2012
+
+ID	Description
+25501	The steady-state extraction page should have the steady state interval turned on by default in the plots.
+25620	Improve documentation to better explain the "controlled" term in the Controller Configuration help.
+25635	The feedforward signal groupbox wording for the Controller COnfiguration MVs could be improved.
+25672	Improve documentation to better explain differences between models used in transient simulation and dynamic tuning.
+25693	Improve the feedforward and feedback threshold settings for manipulated variables.
+25968	Add a scroll bar to the scatter plot window on the Steady-State extraction page.
+26061	Actuators should not be available as on/off if not selected as primary or secondary in the Design of Experiment Settings page.
+26276	The active controller combo box could be made larger.
+27715	Legend text could be improved on the physical plausibility page.
+27795	Capitalization improvements could be made to improve consistency.
+27912	Controller template should be saved in same MATLAB version as Library.
+27963	Importing of an mdl file may not work properly for a new OnRAMP project file.
+28073	Change of units in the lugline parameters are not reflected immediately in the graph label on the Design of Experiment page.
+28095	When setting percent of data to be used for validation, manual entries should be accepted.
+28107	Under some circumstances, the model/controller selector may not get updated with the addition of a new controller.
+28137	The scroll bars on the Transient Simulation scheduled variables chart could exhibit scaling inaccuracies.
+28140	On/off actuators need a combobox for making nominal selections.
+28154	An exception could be produced when the copy weights button is used on the Transient ID page.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+C1B2 Build
+November 22, 2012
+
+ID	Description
+25729	Show the file name being imported in the Data Import dialog title bar.
+25756	Improved documentation to note that on-engine data should be assigned for turbochargers.
+25889	User defined scheduled variable names are not propogated to the Deployment page.
+25948	Improved documentation to provide details on the in/output selection options in the unit conversion block.
+26193	Refresh issues can be observed with the charts on the Feedforward page.
+26239	On the Feedforward Tuning page, interpolated values could be incorrectly coloured in the operating point grid.
+26419	Display the total DoE duration on the Export page.
+26900	On the Design of Experiment page, the actuator spacing combo box should be made inactive for on /off actuators.
+26917	MATLAB version selection should only be performed if there is more than one MATLAB version present.
+27456 	Modify the Release and Installation Notes to use Windows 7 terminology when referring to the Programs menu. 
+27639	Full table copying behaviours could be improved.
+27759	The +/- button increment step sizing could be made more intuitive.
+27774 	Modify the help layout for controller configuration to better support the "print all" option.
+27787	The checkboxes for the critical signals should be disabled until the first pass of Steady-State extraction is complete. 
+27814	The default tab focus on the third step of the turbine data import process was not set correctly.
+27895	Steady-state extraction could throw an exception when very large data sets are used.
+27913 	The license dialog button appearance could be different than other buttons in the application.
+27965 	A segmentation violation can occur during transient identification under certain conditions.
+27993 	Component names could be deleted from the tree on the Steady-State Identification page.
+28023 	Specific information on supported CAMEO(TM) versions for OnRAMP Design of Experiment should be provided.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+C1B1 Build
+November 15, 2012
+
+ID	Description
+26354 	Enable docking of the Operating Point selector on the Feedforward page.
+26377 	Improve the warning message when an excessive number of operating points is requested from the Feedforward display.
+26704 	Limits on the Advanced Tuning dialog can be violated via pasting data.
+27343 	The delete data operaton on the Data Import page can take minutes to complete, and should be made faster (seconds).
+27568 	Rearrange the prediction horizon values (on the Advanced Tuning dialog) to be more intuitive.
+27686 	The closed loop performance slider bar direction should be reversed to improve consistency with other slider bars' appearance.
+27794 	Make the Data Import button widths consistent with those of other tasks, and arrange them to be more intuitive.
+27859	Operating Point warnings on the Feedforward design page could be made inconsistent under certain conditions.
+27880	Math bar on controller Configuration page does not accept value when button is pressed immediately after value entry.
+27919	Add warning message when the exported Design of Experiment file name exceeds the Windows-supported length.
+27921 	Slider bar cursors do not always scroll/move with the mouse.
+27980 	Correct a typo in the warning message that appears when a measurement is added with no setpoint data.
+27987 	Under certain conditions, an exception can be produced on the Controller Configuration page when the math buttons are used.
+27988 	Deleting a column in the Data Management page can produce an exception under certain conditions.
+28004 	A segmentation violation can occur during steady-state identification under certain conditions.
+28040 	Support regional settings (commas/decimals) when entering lug line information on the Design of Experiment page.
+ 

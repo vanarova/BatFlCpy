@@ -1,0 +1,50 @@
+c:\users\h175494\documents\visual studio 2015\Projects\BatchFilesCopy\BatchFilesCopy\bin\Debug\BatchFilesCopy.exe.config
+c:\users\h175494\documents\visual studio 2015\Projects\BatchFilesCopy\BatchFilesCopy\bin\Debug\BatchFilesCopy.exe
+c:\users\h175494\documents\visual studio 2015\Projects\BatchFilesCopy\BatchFilesCopy\bin\Debug\BatchFilesCopy.pdb
+c:\users\h175494\documents\visual studio 2015\Projects\BatchFilesCopy\BatchFilesCopy\obj\Debug\BatchFilesCopy.Properties.Resources.resources
+c:\users\h175494\documents\visual studio 2015\Projects\BatchFilesCopy\BatchFilesCopy\obj\Debug\BatchFilesCopy.TestCopyFiles.resources
+c:\users\h175494\documents\visual studio 2015\Projects\BatchFilesCopy\BatchFilesCopy\obj\Debug\BatchFilesCopy.csproj.GenerateResource.Cache
+c:\users\h175494\documents\visual studio 2015\Projects\BatchFilesCopy\BatchFilesCopy\obj\Debug\BatchFilesCopy.exe
+c:\users\h175494\documents\visual studio 2015\Projects\BatchFilesCopy\BatchFilesCopy\obj\Debug\BatchFilesCopy.pdb
+C:\Users\h175494\documents\visual studio 2015\Projects\BatchFilesCopy\BatchFilesCopy\obj\Debug\BatchFilesCopy.csprojResolveAssemblyReference.cache
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.csprojResolveAssemblyReference.cache
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.Controls.RunProgress.resources
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.Properties.Resources.resources
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.RunDetails.resources
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchCopyCore.TestCopyFiles.resources
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.TestForm.resources
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.csproj.GenerateResource.Cache
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchCopyCore.UI.Controls.CopyByWinCommand.resources
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchFilesCopy.exe.config
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchFilesCopy.exe
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchFilesCopy.pdb
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchCopyCore.dll
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchCopyCore.pdb
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.exe
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.pdb
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchCopyCore.UI.Controls.CopyByCodeSource.resources
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.Extensions.resources
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.OneTextBoxInput.resources
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.BatchCopyFiles.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchFilesCopy.exe.config
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchFilesCopy.exe
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchFilesCopy.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchCopyCore.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\BatchCopyCore.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.csprojResolveAssemblyReference.cache
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchCopyCore.UI.Controls.CopyByCodeSource.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchCopyCore.UI.Controls.CopyByWinCommand.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.Controls.RunProgress.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.Extensions.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.OneTextBoxInput.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.Properties.Resources.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.BatchCopyFiles.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.RunDetails.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchCopyCore.TestCopyFiles.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.UI.TestForm.resources
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.csproj.GenerateResource.Cache
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.exe
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\obj\Debug\BatchFilesCopy.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\NLog.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\NLog.xml
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\BatchFilesCopy\bin\Debug\NLog.config

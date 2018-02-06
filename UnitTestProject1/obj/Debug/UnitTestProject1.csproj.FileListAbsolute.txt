@@ -1,0 +1,31 @@
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\BatchCopyCore.dll
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\BatchFilesCopy.exe
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\BatchFilesCopy.pdb
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\BatchCopyCore.pdb
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\h175494\Documents\Visual Studio 2015\Projects\BatchFilesCopy - Unstable - 1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\BatchCopyCore.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\BatchFilesCopy.exe
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\BatchFilesCopy.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\BatchCopyCore.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\Moq.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\System.ValueTuple.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\Castle.Core.xml
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\Moq.pdb
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\Moq.xml
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\NLog.dll
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\NLog.xml
+C:\Sources\Git\vanarovaTestProgs\BatchFilesCopy - Unstable - 1\UnitTestProject1\bin\Debug\NLog.config
