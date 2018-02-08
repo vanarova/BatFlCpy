@@ -201,6 +201,61 @@ namespace BatchCopyCore.Core
             return true;
         }
 
+
+
+        //.%%%%%%..%%%%%%...%%%%...%%%%%%..%%%%%%..%%%%%..........
+        //...%%....%%......%%........%%....%%......%%..%%.........
+        //...%%....%%%%.....%%%%.....%%....%%%%....%%..%%.........
+        //...%%....%%..........%%....%%....%%......%%..%%.........
+        //...%%....%%%%%%...%%%%.....%%....%%%%%%..%%%%%..........
+        //........................................................                              
+
+
+        public bool TryCopyFileAndCreateDirectoryStrc(
+            string srcPath,
+            string destPath,
+            Action<long, string> fileDetails,
+            bool IsInteractivelyCallBack,
+            int callBackBufferSize,
+            out bool IsSuccessful)
+        {
+            bool success = true; ;
+            if (File.Exists(srcPath))
+            {
+                DirectoryInfo srcDirInfo = new DirectoryInfo(srcPath);
+                FileInfo destFileInfo = new FileInfo(destPath);
+
+                if (Directory.Exists(destFileInfo.Directory.FullName))
+                {
+                    File.Copy(srcPath, Path.Combine(destFileInfo.Directory.FullName, srcDirInfo.Name), true);
+                }
+                else
+                {
+                    Directory.CreateDirectory(destFileInfo.Directory.FullName);
+                    File.Copy(srcPath, Path.Combine(destFileInfo.Directory.FullName, srcDirInfo.Name), true);
+                }
+            }
+            else
+            {
+                success = false;
+                file.error = "source file doesnt exist";
+                throw new FileNotFoundException();
+            }
+            return success;
+
+        }
+
+
+
+
+
+        //.%%%%%%..%%%%%%...%%%%...%%%%%%..%%%%%%..%%%%%..........
+        //...%%....%%......%%........%%....%%......%%..%%.........
+        //...%%....%%%%.....%%%%.....%%....%%%%....%%..%%.........
+        //...%%....%%..........%%....%%....%%......%%..%%.........
+        //...%%....%%%%%%...%%%%.....%%....%%%%%%..%%%%%..........
+        //........................................................                              
+
         /// <summary>
         /// Tries to Get all files from a directory, logs error in case it fails.
         /// Also returns success flag.
